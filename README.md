@@ -1,4 +1,4 @@
-# <div align="center">Hi 👋, I'm Nashish</div>
+# <div align="center">Hi 👋, I'm N.Ashish</div>
 <h3 align="center">A FinTech Enthusiast | Full Stack Developer | Data Analyst</h3>
 
 <div align="center">
