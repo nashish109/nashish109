@@ -148,4 +148,3 @@ Building a fraud detection pipeline using machine learning, automation, and real
 
 ---
 
-<div align="center">Built with 💻 & ❤️ by Nashish | Let’s dive into data together! 🌊</div>
