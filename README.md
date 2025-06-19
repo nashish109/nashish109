@@ -1,150 +1,69 @@
-# <div align="center">Hi 👋, I'm N.Ashish</div>
-<h3 align="center">A FinTech Enthusiast | Full Stack Developer | Data Analyst</h3>
+<h1 align="center">Hi 👋, I'm N. Ashish</h1>
+<h3 align="center">A passionate Software Engineer and Data Storyteller from Chennai, India.</h3>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Data%20Analyst-Crafting%20Insights-%23000000?style=for-the-badge&logo=python&logoColor=white" alt="Data Analyst Badge"/>
-  <br/>
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nashish109&label=Profile%20views&color=0e75b6&style=flat" alt="nashish109" /> </p>
 
-## <div align="center">📎 Connect with Me</div>
-<div align="center">
-  <a href="https://www.linkedin.com/in/n-ashish-455b37244/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
-  </a>
-</div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.codechef.com/users/ash2200032978" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ash2200032978" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/h2200032978" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg" alt="h2200032978" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/u/N_Ashish/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="N_Ashish" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nashish109" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="nashish109" height="30" width="40" /></a>
+</p>
 
-## 🧑‍💼 Work Experience
+## 📈 Coding Profiles
 
-**💼 IT Intern @ DTCC**  
-📆 **Duration:** May 2025 – Present  
-🌍 **Location:** Chennai, Tamil Nadu  
-- 🛠️ Worked on **database management** and **frontend development** using **Angular** for a **trade reconciliation** platform
+<span>
+<a href="https://www.hackerrank.com/profile/h2200032978">
+<img height="316" src="https://github-readme-stats.vercel.app/api?username=nashish109&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff" alt="nashish109 Hackerrank Stats"/>
+</a>
+<a href="https://leetcode.com/u/N_Ashish/">
+<img height="316" src="https://leetcard.jacoblin.cool/N_Ashish?theme=dark&font=Ubuntu&cache=14400" alt="N_Ashish Leetcode Stats"/>
+</a>
+</span>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
+  <a href="https://www.r-project.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="R" width="40" height="40"/> </a>
+  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a>
+  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a>
+  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> </a>
+  <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/> </a>
+  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> </a>
+  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> </a>
+  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a>
+  <a href="https://www.postgresql.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="40" height="40"/> </a>
+  <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/> </a>
+  <a href="https://azure.microsoft.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/> </a>
+  <a href="https://aws.amazon.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/> </a>
+  <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/> </a>
+  <a href="https://powerbi.microsoft.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40"/> </a>
+  <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a>
+</p>
+
+<!-- Stats section -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nashish109&show_icons=true&locale=en&layout=compact" alt="nashish109" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nashish109&show_icons=true&locale=en" alt="nashish109" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nashish109&" alt="nashish109" /></p>
 
 ---
 
-## 🔭 I’m Currently Working On
-Building a fraud detection pipeline using machine learning, automation, and real-time data validation
+### 🧑‍💼 Work Experience
 
-## 🌱 I’m Currently Learning
-**Azure**, **PostgreSQL**, and scaling **data analytics** solutions
+**IT Intern @ DTCC**  
+📆 May 2025 – Present  
+📍 Chennai, Tamil Nadu  
+💼 Working on database management and frontend using Angular on trade reconciliation systems.
 
-## <div align="center">🛠️ My Data Toolkit</div>
-<div align="center">
-  <p>My go-to tools for unlocking data’s secrets!</p>
-  <table style="border-spacing: 3px;">
-    <tr>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" alt="Python"/>
-        <br/>Python
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" alt="SQL"/>
-        <br/>SQL
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="45" alt="R"/>
-        <br/>R
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" alt="Pandas"/>
-        <br/>Pandas
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" alt="NumPy"/>
-        <br/>NumPy
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" alt="Jupyter"/>
-        <br/>Jupyter
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" alt="VS Code"/>
-        <br/>VS Code
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" alt="Git"/>
-        <br/>Git
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" width="45" alt="Tableau"/>
-        <br/>Tableau
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=white" width="45" alt="Power BI"/>
-        <br/>Power BI
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" alt="MongoDB"/>
-        <br/>MongoDB
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" width="45" alt="Excel"/>
-        <br/>Excel
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" alt="C"/>
-        <br/>C
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" alt="C++"/>
-        <br/>C++
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45" alt="Matplotlib"/>
-        <br/>Matplotlib
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" width="45" alt="Seaborn"/>
-        <br/>Seaborn
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="45" alt="Colab"/>
-        <br/>Colab
-      </td>
-    </tr>
-  </table>
-</div>
+---
 
-## <div align="center">📊 Skill Dashboard</div>
-<div align="center">
-  <table>
-    <tr>
-      <td><b>Python</b></td>
-      <td><img src="https://img.shields.io/badge/Python-92%25-%23000000?style=flat-square&logo=python&color=00ff88" alt="Python Skill"/></td>
-    </tr>
-    <tr>
-      <td><b>SQL</b></td>
-      <td><img src="https://img.shields.io/badge/SQL-85%25-%23000000?style=flat-square&logo=mysql&color=00ff88" alt="SQL Skill"/></td>
-    </tr>
-    <tr>
-      <td><b>Data Visualization</b></td>
-      <td><img src="https://img.shields.io/badge/Data_Viz-88%25-%23000000?style=flat-square&logo=chart-dot-js&color=00ff88" alt="Data Viz Skill"/></td>
-    </tr>
-    <tr>
-      <td><b>Machine Learning</b></td>
-      <td><img src="https://img.shields.io/badge/ML-75%25-%23000000?style=flat-square&logo=scikit-learn&color=00ff88" alt="ML Skill"/></td>
-    </tr>
-  </table>
-</div>
-
-## <div align="center">📈 GitHub Insights</div>
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=nashish109&show_icons=true&theme=radical" alt="GitHub Stats"/>
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nashish109&layout=compact&theme=radical" alt="Top Languages"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
-## <div align="center">⚡ Fun Fact</div>
-<div align="center">
-  I see every dataset as a puzzle waiting to be solved—give me data, and I’ll craft a story! 🧩
-</div>
+> ⚡ “I see every dataset as a puzzle waiting to be solved—give me data, and I’ll craft a story!”  
 
 ---
 
