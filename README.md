@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm N. Ashish</h1>
-<h3 align="center">A passionate Software Engineer and Data Storyteller from Chennai, India.</h3>
+<h3 align="center">A passionate Software Engineer and Data Storyteller.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nashish109&label=Profile%20views&color=0e75b6&style=flat" alt="nashish109" /> </p>
 
