@@ -11,16 +11,19 @@
 <a href="https://www.linkedin.com/in/n-ashish-455b37244/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="nashish109" height="30" width="40" /></a>
 </p>
 
-## 📈 Coding Profiles
+## 📈 Profiles
 
 <span>
-<a href="https://github.com/nashish109">
-    <img height="316" src="https://github-readme-stats.vercel.app/api?username=nashish109&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff" alt="nashish109 GitHub Stats"/>
-</a>
-<a href="https://leetcode.com/u/N_Ashish/">
-<img height="316" src="https://leetcard.jacoblin.cool/N_Ashish?theme=dark&font=Ubuntu&cache=14400" alt="N_Ashish Leetcode Stats"/>
-</a>
+  <a href="https://github.com/nashish109">
+    <img height="316" src="https://github-readme-stats.vercel.app/api?username=nashish109&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff&count_private=true&include_all_commits=true" alt="nashish109 GitHub Stats"/>
+  </a>
+  <a href="https://leetcode.com/u/N_Ashish/">
+    <img height="316" src="https://leetcard.jacoblin.cool/N_Ashish?theme=dark&font=Ubuntu&cache=14400" alt="N_Ashish Leetcode Stats"/>
+  </a>
 </span>
+
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -48,8 +51,9 @@
 <!-- Stats section -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nashish109&show_icons=true&locale=en&layout=compact" alt="nashish109" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nashish109&show_icons=true&locale=en" alt="nashish109" /></p>
-
+<p>
+  <img align="center" height="180" src="https://github-readme-stats.vercel.app/api?username=nashish109&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff" alt="GitHub Stats" />
+</p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nashish109&" alt="nashish109" /></p>
 
 ---
