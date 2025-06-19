@@ -8,7 +8,7 @@
 <a href="https://www.codechef.com/users/ash2200032978" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ash2200032978" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/h2200032978" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg" alt="h2200032978" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/u/N_Ashish/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="N_Ashish" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/nashish109" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="nashish109" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/n-ashish-455b37244/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="nashish109" height="30" width="40" /></a>
 </p>
 
 ## 📈 Coding Profiles
@@ -56,7 +56,8 @@
 
 ### 🧑‍💼 Work Experience
 
-**IT Intern @ DTCC**  
+### <img src="https://github.com/nashish109/nashish109/blob/main/dtcc_logo.png" alt="DTCC Logo" style="width:90px;height:auto;" /> 
+### IT Intern @ DTCC  
 📆 May 2025 – Present  
 📍 Chennai, Tamil Nadu  
 💼 Working on database management and frontend using Angular on trade reconciliation systems.
