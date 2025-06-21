@@ -4,38 +4,46 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nashish109&label=Profile%20views&color=0e75b6&style=flat" alt="nashish109" /> </p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.codechef.com/users/ash2200032978" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ash2200032978" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/h2200032978" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg" alt="h2200032978" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/u/N_Ashish/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="N_Ashish" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/n-ashish-455b37244/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="nashish109" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/n-ashish-455b37244/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="30" width="40"/>
+<p align="left" style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
+  <a href="https://www.codechef.com/users/ash2200032978" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/codechef.svg" alt="CodeChef" width="30" height="30" style="vertical-align: middle;" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/h2200032978" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/hackerrank.svg" alt="HackerRank" width="30" height="30" style="vertical-align: middle;" />
+  </a>
+  <a href="https://leetcode.com/u/N_Ashish/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="30" height="30" style="vertical-align: middle;" />
+  </a>
+  <a href="https://www.linkedin.com/in/n-ashish-455b37244/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30" style="vertical-align: middle;" />
   </a>
   <a href="https://medium.com/@nashish831" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968885.png" alt="Medium" height="30" width="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968885.png" alt="Medium" width="30" height="30" style="vertical-align: middle;" />
   </a>
   <a href="https://www.instagram.com/nashish109/?hl=en" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" height="30" width="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" width="30" height="30" style="vertical-align: middle;" />
   </a>
   <a href="https://www.reddit.com/user/Jcodinf_109/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111589.png" alt="Reddit" height="30" width="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111589.png" alt="Reddit" width="30" height="30" style="vertical-align: middle;" />
   </a>
   <a href="https://www.kaggle.com/nashish109" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="Kaggle" height="30" width="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="Kaggle" width="30" height="30" style="vertical-align: middle;" />
   </a>
   <a href="https://x.com/NASHISH7" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023.svg" alt="X" height="30" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="X" width="30" height="30" style="vertical-align: middle;" />
   </a>
+
+
 </p>
 
 
 ## 📈 Profiles
 
 <span>
-  <a href="https://github.com/nashish109">
-    <img height="300" src="https://github-readme-stats.vercel.app/api?username=nashish109&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff&count_private=true&include_all_commits=true" alt="nashish109 GitHub Stats"/>
-  </a>
+  <a href="https://github.com/nashish109" target="_blank">
+  <img height="300" src="https://github-readme-stats.vercel.app/api?username=nashish109&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff" alt="nashish109 GitHub Stats" />
+</a>
+
   <a href="https://leetcode.com/u/N_Ashish/">
     <img height="300" src="https://leetcard.jacoblin.cool/N_Ashish?theme=dark&font=Ubuntu&cache=14400" alt="N_Ashish Leetcode Stats"/>
   </a>
@@ -68,12 +76,19 @@
 </p>
 
 <!-- Stats section -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nashish109&show_icons=true&locale=en&layout=compact" alt="nashish109" /></p>
+<p align="left">
+  <img align="left" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nashish109&layout=compact&theme=github_dark&hide_border=true&langs_count=10&title_color=58a6ff" alt="Top Languages" />
+</p>
 
-<p>
+<!-- GitHub Stats -->
+<p align="right">
   <img align="center" height="180" src="https://github-readme-stats.vercel.app/api?username=nashish109&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff" alt="GitHub Stats" />
 </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nashish109&" alt="nashish109" /></p>
+
+<!-- GitHub Streaks -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nashish109&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
+</p>
 
 ---
 <h2>🧑‍💼 Work Experience </h2>
