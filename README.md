@@ -108,13 +108,13 @@
 
 <!-- Stats section -->
 <p align="left">
-  <img align="left" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nashish109&layout=compact&theme=github_dark&hide_border=true&langs_count=10&title_color=58a6ff" alt="Top Languages" />
+  <img align="left" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nashish109&layout=compact&theme=github_dark&hide_border=true&langs_count=10&title_color=58a6ff" alt="Top Languages" />
 </p>
 
 <!-- GitHub Stats -->
 <p align="right">
 <a href="https://github.com/nashish109">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=nashish109&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff&count_private=true&include_all_commits=true&cache_seconds=60" alt="nashish109 GitHub Stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nashish109&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff&count_private=true&include_all_commits=true&cache_seconds=60" alt="nashish109 GitHub Stats"/>
 </a>
 </p>
 
