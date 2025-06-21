@@ -15,10 +15,10 @@
 
 <span>
   <a href="https://github.com/nashish109">
-    <img height="316" src="https://github-readme-stats.vercel.app/api?username=nashish109&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff&count_private=true&include_all_commits=true" alt="nashish109 GitHub Stats"/>
+    <img height="300" src="https://github-readme-stats.vercel.app/api?username=nashish109&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff&count_private=true&include_all_commits=true" alt="nashish109 GitHub Stats"/>
   </a>
   <a href="https://leetcode.com/u/N_Ashish/">
-    <img height="316" src="https://leetcard.jacoblin.cool/N_Ashish?theme=dark&font=Ubuntu&cache=14400" alt="N_Ashish Leetcode Stats"/>
+    <img height="300" src="https://leetcard.jacoblin.cool/N_Ashish?theme=dark&font=Ubuntu&cache=14400" alt="N_Ashish Leetcode Stats"/>
   </a>
 </span>
 
