@@ -107,26 +107,14 @@
 </p>
 
 <!-- Stats section -->
-<p align="left">
-  <img align="left" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nashish109&layout=compact&theme=github_dark&hide_border=true&langs_count=10&title_color=58a6ff" alt="Top Languages" />
-</p>
-
-<!-- GitHub Stats -->
-<p align="right">
-<a href="https://github.com/nashish109">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nashish109&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff&count_private=true&include_all_commits=true&cache_seconds=60" alt="nashish109 GitHub Stats"/>
-</a>
-</p>
-
-<!-- GitHub Streaks -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nashish109&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nashish109&layout=compact&theme=github_dark&hide_border=true&langs_count=10&title_color=58a6ff" alt="Top Languages" />
+  &nbsp;&nbsp;
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=nashish109&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
 </p>
 
 ---
 
+ ⚡ “I see every dataset as a puzzle waiting to be solved—give me data, and I’ll craft a story!”  
 
-> ⚡ “I see every dataset as a puzzle waiting to be solved—give me data, and I’ll craft a story!”  
-
----
 
