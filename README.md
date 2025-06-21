@@ -9,7 +9,26 @@
 <a href="https://www.hackerrank.com/profile/h2200032978" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg" alt="h2200032978" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/u/N_Ashish/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="N_Ashish" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/n-ashish-455b37244/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="nashish109" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/n-ashish-455b37244/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="30" width="40"/>
+  </a>
+  <a href="https://medium.com/@nashish831" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968885.png" alt="Medium" height="30" width="40"/>
+  </a>
+  <a href="https://www.instagram.com/nashish109/?hl=en" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" height="30" width="40"/>
+  </a>
+  <a href="https://www.reddit.com/user/Jcodinf_109/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111589.png" alt="Reddit" height="30" width="40"/>
+  </a>
+  <a href="https://www.kaggle.com/nashish109" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="Kaggle" height="30" width="40"/>
+  </a>
+  <a href="https://x.com/NASHISH7" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023.svg" alt="X" height="30" width="40"/>
+  </a>
 </p>
+
 
 ## 📈 Profiles
 
@@ -57,11 +76,11 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nashish109&" alt="nashish109" /></p>
 
 ---
+<h2>🧑‍💼 Work Experience </h2>
 
-### 🧑‍💼 Work Experience
-
-### <img src="https://github.com/nashish109/nashish109/blob/main/dtcc_logo.png" alt="DTCC Logo" style="width:90px;height:auto;" /> 
+### <img src="https://github.com/nashish109/nashish109/blob/main/dtcc_logo.png" alt="DTCC Logo" style="width:90px;height:auto;" />   
 ### IT Intern @ DTCC  
+
 📆 May 2025 – Present  
 📍 Chennai, Tamil Nadu  
 💼 Working on database management and frontend using Angular on trade reconciliation systems.
