@@ -3,6 +3,52 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nashish109&label=Profile%20views&color=0e75b6&style=flat" alt="nashish109" /> </p>
 
+<h2>🧑‍💼 Work Experience </h2>
+
+### <img src="https://github.com/nashish109/nashish109/blob/main/dtcc_logo.png" alt="DTCC Logo" style="width:90px;height:auto;" />   
+### IT Intern @ DTCC  
+
+**Duration:** May 2025 – Present     
+**Location:** Chennai, Tamil Nadu
+
+- Working on database management for trade reconciliation systems.  
+- Developing frontend interfaces using Angular.  
+- Collaborating with teams to integrate backend and frontend.  
+- Maintaining and troubleshooting system performance.  
+- Documenting processes and contributing to codebase.
+
+---
+
+
+
+## 📈 Profiles
+
+<span>
+  <a href="https://github.com/nashish109">
+  <img height="300" src="https://github-readme-stats.vercel.app/api?username=nashish109&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff&count_private=true&include_all_commits=true&cache_seconds=60" alt="nashish109 GitHub Stats"/>
+</a>
+
+
+  <a href="https://leetcode.com/u/N_Ashish/">
+    <img height="300" src="https://leetcard.jacoblin.cool/N_Ashish?theme=dark&font=Ubuntu&cache=14400" alt="N_Ashish Leetcode Stats"/>
+  </a>
+</span>
+
+---
+
+### 💡 About Me
+
+- 📈 **Data Enthusiast** skilled in storytelling through analytics and dashboards  
+- 💼 Currently interning at **DTCC**, working on:  
+  - Frontend development with Angular  
+  - Database management and trade reconciliation systems  
+- 💻 Proficient in **Python**, **C++** and the **R**  
+- 📊 Experienced with **Power BI**, **Tableau**, **SQL**, and **data visualization**  
+- ☁️ Hands-on with **AWS** and **Azure** cloud platforms  
+- 🧠 Interested in **FinTech**, **fraud detection**, and **predictive analytics**  
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left" style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
   <a href="https://www.codechef.com/users/ash2200032978" target="_blank">
@@ -37,21 +83,6 @@
 </p>
 
 
-## 📈 Profiles
-
-<span>
-  <a href="https://github.com/nashish109" target="_blank">
-  <img height="300" src="https://github-readme-stats.vercel.app/api?username=nashish109&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff" alt="nashish109 GitHub Stats" />
-</a>
-
-  <a href="https://leetcode.com/u/N_Ashish/">
-    <img height="300" src="https://leetcard.jacoblin.cool/N_Ashish?theme=dark&font=Ubuntu&cache=14400" alt="N_Ashish Leetcode Stats"/>
-  </a>
-</span>
-
-
-
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
@@ -82,7 +113,9 @@
 
 <!-- GitHub Stats -->
 <p align="right">
-  <img align="center" height="180" src="https://github-readme-stats.vercel.app/api?username=nashish109&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff" alt="GitHub Stats" />
+<a href="https://github.com/nashish109">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=nashish109&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff&count_private=true&include_all_commits=true&cache_seconds=60" alt="nashish109 GitHub Stats"/>
+</a>
 </p>
 
 <!-- GitHub Streaks -->
@@ -91,16 +124,7 @@
 </p>
 
 ---
-<h2>🧑‍💼 Work Experience </h2>
 
-### <img src="https://github.com/nashish109/nashish109/blob/main/dtcc_logo.png" alt="DTCC Logo" style="width:90px;height:auto;" />   
-### IT Intern @ DTCC  
-
-📆 May 2025 – Present  
-📍 Chennai, Tamil Nadu  
-💼 Working on database management and frontend using Angular on trade reconciliation systems.
-
----
 
 > ⚡ “I see every dataset as a puzzle waiting to be solved—give me data, and I’ll craft a story!”  
 
