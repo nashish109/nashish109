@@ -107,11 +107,18 @@
 </p>
 
 <!-- Stats section -->
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nashish109&layout=compact&theme=github_dark&hide_border=true&langs_count=10&title_color=58a6ff" alt="Top Languages" />
-  &nbsp;&nbsp;
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=nashish109&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
-</p>
+<section class="github-stats">
+  <h2>My GitHub Streak</h2>
+  <div class="stats-container">
+    <img 
+      src="https://github-readme-streak-stats.herokuapp.com/?user=nashish109&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=58a6ff&currStreakLabel=58a6ff" 
+      alt="GitHub Streak" 
+      width="100%" 
+      style="max-width: 400px; border-radius: 10px;" 
+    />
+  </div>
+</section>
+
 
 ---
 
