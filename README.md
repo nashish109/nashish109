@@ -46,7 +46,6 @@
 -  Hands-on with **AWS** and **Azure** cloud platforms  
 -  Interested in **FinTech**, **fraud detection**, and **predictive analytics**
 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left" style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
   <a href="https://www.codechef.com/users/ash2200032978" target="_blank">
@@ -105,7 +104,7 @@
 
 ---
 
-### 📊 My GitHub Streak
+### 📊 My GitHub Stats
 
 <div align="center">
   <img 
@@ -116,12 +115,6 @@
   />
 </div>
 
-
-### 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://github.com/nashish109/nashish109/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
 
 ---
 
