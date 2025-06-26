@@ -108,12 +108,13 @@
 
 <div align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=nashish109&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=58a6ff&currStreakLabel=58a6ff"
+    src="https://streak-stats.demolab.com?user=nashish109&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=58a6ff&currStreakLabel=58a6ff"
     alt="GitHub Streak"
     width="100%"
     style="max-width: 500px; border-radius: 10px;"
   />
 </div>
+
 
 
 ---
