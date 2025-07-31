@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm N. Ashish</h1>
 <h3 align="center">A passionate Software Engineer and Data Storyteller.</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=nashish109&label=Profile%20views&color=0e75b6&style=flat" alt="nashish109" />
-</p>
-
 <h2>🧑‍💼 Work Experience</h2>
 
 ### <img src="https://github.com/nashish109/nashish109/blob/main/dtcc_logo.png" alt="DTCC Logo" style="width:90px;height:auto;" />
@@ -95,6 +91,9 @@
 ### 📊 My GitHub Stats
 
 <div align="center">
+  <p align="left">
+    <img src="https://komarev.com/ghpvc/?username=nashish109&label=Profile%20views&color=0e75b6&style=flat" alt="nashish109" />
+  </p>
   <table>
     <tr>
       <td align="center">
