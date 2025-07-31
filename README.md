@@ -114,7 +114,11 @@
     style="max-width: 500px; border-radius: 10px;"
   />
 </div>
-
+<p align="center">
+  <a href="https://github.com/nashish109">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=nashish109&bg_color=0d1117&color=ffffff&line=0891b2&point=ffffff&area=true&hide_border=true" alt="activity graph"/>
+  </a>
+</p>
 
 
 ---
