@@ -21,19 +21,7 @@
 
 ---
 
-## 📈 Profiles
 
-<span>
-  <a href="https://github.com/nashish109">
-    <img height="300" src="https://github-readme-stats.vercel.app/api?username=nashish109&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff&count_private=true&include_all_commits=true&cache_seconds=60" alt="nashish109 GitHub Stats"/>
-  </a>
-
-  <a href="https://leetcode.com/u/N_Ashish/">
-    <img height="300" src="https://leetcard.jacoblin.cool/N_Ashish?theme=dark&font=Ubuntu&cache=14400" alt="N_Ashish Leetcode Stats"/>
-  </a>
-</span>
-
----
 
 ### 💡 About Me
 
@@ -107,18 +95,26 @@
 ### 📊 My GitHub Stats
 
 <div align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=nashish109&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=58a6ff&currStreakLabel=58a6ff"
-    alt="GitHub Streak"
-    width="100%"
-    style="max-width: 500px; border-radius: 10px;"
-  />
-</div>
-<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://streak-stats.demolab.com?user=nashish109&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak"/>
+      </td>
+      <td align="center">
+        <a href="https://github.com/nashish109">
+          <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nashish109&layout=compact&langs_count=8&theme=github_dark&hide_border=true&title_color=58a6ff"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
   <a href="https://github.com/nashish109">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=nashish109&bg_color=0d1117&color=ffffff&line=0891b2&point=ffffff&area=true&hide_border=true" alt="activity graph"/>
   </a>
-</p>
+</div>
+
 
 
 ---
