@@ -6,14 +6,14 @@
 ### <img src="https://github.com/nashish109/nashish109/blob/main/dtcc_logo.png" alt="DTCC Logo" style="width:90px;height:auto;" />
 ### IT Intern @ DTCC
 
-**Duration:** May 2025 – Present  
+**Duration:** May 2025 – July 2025  
 **Location:** Chennai, Tamil Nadu
 
-- Working on database management for trade reconciliation systems  
-- Developing frontend interfaces using Angular  
-- Collaborating with teams to integrate backend and frontend  
-- Maintaining and troubleshooting system performance  
-- Documenting processes and contributing to codebase
+- Worked on database management for trade reconciliation systems  
+- Developed frontend interfaces using Angular  
+- Collaborated with teams to integrate backend and frontend  
+- Maintained and troubleshooted system performance  
+- Documented processes and contributed to codebase
 
 ---
 
@@ -22,13 +22,16 @@
 ### 💡 About Me
 
 - **Data Enthusiast** skilled in storytelling through analytics and dashboards  
--  Currently interning at **DTCC**, working on:  
-  - Frontend development with Angular  
-  - Database management and trade reconciliation systems  
+-  Recently interned at **DTCC**, working on:  
+    - Frontend development with Angular  
+    - Database management and trade reconciliation systems  
 -  Proficient in **Python**, **C++**, and **R**  
 -  Experienced with **Power BI**, **Tableau**, **SQL**, and **data visualization**  
--  Hands-on with **AWS** and **Azure** cloud platforms  
+-  Hands-on with **GCP** and **Azure** cloud platforms  
 -  Interested in **FinTech**, **fraud detection**, and **predictive analytics**
+-  Music and code keep me grounded — I’m a national-level **Carnatic vocalist**  
+- I bring the same focus to life and sport — an avid **badminton player**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left" style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
